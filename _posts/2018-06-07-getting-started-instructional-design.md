@@ -7,7 +7,7 @@ comments: true
 categories:
 - ID
 ---
-Every day of my life is filled learning and observation. After all, I am human.
+Every day of my life is filled with learning and observation. After all, I am human.
 
 # Learning in the Real World
 
