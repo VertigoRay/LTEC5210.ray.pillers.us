@@ -28,13 +28,13 @@ Many small shops do not accept credit, and of course, most of them don't have an
 You just have to ask before you start shopping.
 I needed cash so that I could grab a pernil sandwich from a street vendor after my appointment at el hospital; that's Spanish for the hospital.
 My mother and identical twin brother have both recently been diagnosed with high cholesterol.
-Although I eat a little bit healthier than my twin, he works out several times a week.
+Although I eat a bit healthier than my twin, he works out several times a week.
 Since that's several times more a week than I work out, I decided to play it safe and go in and get checked.
 
 ## El Cajero
 
 As I approached el cajero, I was prompted to insert my card into the ATM.
-An animated image of a card being inserted into the card slot before I gave me a very clear demonstration of how the card should be inserted and what side the magnetic strip should be on.
+An animated image of a card being inserted into the card slot before me gave me a very clear demonstration of how the card should be inserted and what side the magnetic strip should be on.
 The animation was only a couple of seconds long, but it looped indefinitely so that I could be absolutely sure I did not miss anything.
 This was such a great design choice.
 
@@ -45,18 +45,18 @@ I only now realized how the message was perfectly timed to set the user at ease 
 
 As I left the ATM and walked to the hospital, I realized how simple yet functional the instructional design of the prompts was.
 The ATM seemed to wake up as I approached it, and gave me a simple yet functional animation showing me where and how to insert my card into the machine.
-The message targetted three local demographics with the simple instructions their the appropriate language.
-The system was very easy to get acquainted with.
+The message targeted three local demographics with simple instructions in their the appropriate language.
+This system was very easy to get acquainted with.
 I was not confused about what to do next and had my cash and card in hand in about a minute.
 I have experienced this same process countless times, but this time I noticed it.
 
 ## El Hospital
 
 After I checked into the hospital, I went to get my vitals taken before I would see the doctor.
-I sat down at the nurse's stations and looked around.
-I've become accustomed to all of the posters on the wall being in Spanish, and I speak Spanish far better than I did when I moved here in May of 2014.
+I sat down at the nurse's station and looked around.
+I've become accustomed to all the posters on the wall being in Spanish, and I speak Spanish far better than I did when I moved here in May 2014.
 One of the things I find the most interesting is looking at posters with medical terminology and knowing what is being explained.
-Not just because a lot of medical are similar in Spanish and English, but because of the use of graphics help convey the message.
+Not just because a lot of medical terms are similar in Spanish and English, but because of the use of graphics that help convey the message.
 
 Additionally, I noticed that the hospital was laid out pretty much the same as I was used to in the United States.
 There was a red bin on the counter with a slit for sharps.
@@ -71,8 +71,7 @@ As I waited for my turn with the doctor, I thought about the use of colors to in
 These were the same colors that I was already familiar with.
 I also thought about the several posters around the hospital with health tips.
 I realized that I didn't, initially, read any of them.
-I only read them to get the details.
-I was able to glean the concepts with a quick glance at the images.
+Only reading them to get the details, I was able to glean the concepts with a quick glance at the images.
 As I sat there pondering, I felt a tickle in my throat.
 I turned my head slightly and coughed into my shoulder.
 
@@ -105,7 +104,7 @@ Writing my thoughts out in the form of a journal is not something I've ever enjo
 So, while I was trying very hard to think of how to make a perfect article, I should have just started writing.
 Today, I did exactly that.
 I didn't know the direction I would go when I started, but I just started putting words on ~paper~ screen.
-Luckily, I remembered the words of a wise Jedi, "Do.Or do not. There is no try."
+Luckily, I remembered the words of a wise Jedi, “Do. Or do not. There is no try.”
 Otherwise, I'd probably still just be thinking about what to type.
 
 # References
