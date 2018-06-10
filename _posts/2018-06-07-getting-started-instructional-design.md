@@ -16,9 +16,8 @@ As I washed my hands on the way out of the restroom, I thought about the habit t
 When did I learn to wash my hands after using the restroom?
 When did it become a habit?
 I left the house and approached the curb with intent to *cross to the other side*.
-I immediately looked both ways for oncoming traffic.
-I paused and thought back to when and where that was ingrained in my brain.
-I could not recall the lessons.
+Immediately, I looked both ways for oncoming traffic.
+I paused and thought back to when and where that was ingrained in my brain, but I could not recall the lessons.
 These examples were not the examples I was looking for.
 They were merely actions acquired through previous repetition of a mental experience. (Andrews, 1903)
 
