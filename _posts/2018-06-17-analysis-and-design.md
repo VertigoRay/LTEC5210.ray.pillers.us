@@ -7,10 +7,6 @@ comments: true
 categories:
 - ID
 ---
-> Part 1: What have you learned from the analysis? What are you planning to do with it? Do a little brainstorming about what activities tied to the learning objectives that you might include in the design of your lesson.
-
-> Part 2: How are analysis and design related for you? Think about it in the context the articles and chapters we have read thus far. How closely should these two pieces of the model connect? How does the Information R/Evolution video affect each of these?
-
 At my job with [Computing for Arts & Sciences](httsp://its.cas.unt.edu), I was very recently tasked with coordinating cross-training for my team, the Infrastructure Team. There are four of us on the team, and I wish that meant that we were all working on the same task and objectives. While we do have similar goals in mind, our roles and responsibilities are very different. We basically have four areas of expertise with little crossover. In alphabetical order, they are:
 
 1. Apple Workstations
