@@ -32,7 +32,7 @@ Students must see the light at the end of the tunnel and be focused on the long-
 
 # Interest
 
-Currently, the non-family things that interest me the most at are:
+Currently, the non-family things that interest me the most are:
 
 - [Automation](https://en.wikipedia.org/wiki/Automation)
 - [Configuration Management](https://en.wikipedia.org/wiki/Configuration_management)
