@@ -36,4 +36,5 @@ One might think that all sources on this topic would be identical, but that's no
 
 - Romiszowski, A. (1981). Designing Instructional Systems. New York: Nichols. Retrieved from http://courseweb.unt.edu/AOP_collaborative/readings/5210/Week2/romiszowski_a_1981.pdf
 - Piskurich, G. (2015). Rapid instructional design (3rd ed., pp. 15-104). Hoboken: John Wiley
-- Wesch, M. (2007, October 12). Retrieved June 16, 2018, from https://youtu.be/-4CV05HyAbM
+- Wesch, M. (2007, October 12). Retrieved June 16, 2018, from https://youtu.be/-4CV05HyAbMf
+- (2014, July 30). Process Flow - LWE [Digital image]. Retrieved June 17, 2018, from http://ceoskillfoundations.com/media/Process_Flow_-_LWE.jpg
