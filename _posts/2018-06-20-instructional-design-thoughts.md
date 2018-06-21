@@ -25,20 +25,20 @@ As I said, I'm used to doing a lot of additional work besides just the *real wor
 
 # Thoughts on Instructional Design
 
-All I've completes so far is the initial design document, and I must say that it is about as montinous of work as I have ever done.
+All I've completes so far is the initial design document, and I must say that it is about as monotonous of work as I have ever done.
 I'm not saying it's not important.
 However, it is very tedious.
 I do enjoy the fact that it is a very firm outline of what I need and expect from the training that I am planning.
 However, inside the document itself, there is quite a bit of mundane repetition.
 I felt like I was just checking things off the list.
 
-For example, the *learning activies* and the *timeline* sections had almost identical information.
+For example, the *learning activties* and the *timeline* sections had almost identical information.
 I felt like they could have been combined into one section.
-As a matter of fact, simply copied the *learning activies* section and pasted it into the *timeline* section.
-I then tweeked a few things; such as adding times.
+As a matter of fact, simply copied the *learning activties* section and pasted it into the *timeline* section.
+I then tweaked a few things; such as adding times.
 
-Overall, I think it's a good excercise to encourage *deep thoughts* on a topic.
-However, I don't know how practical this is an framwork or template for future endeavors.
+Overall, I think it's a good exercise to encourage *deep thoughts* on a topic.
+However, I don't know how practical this is a framework or template for future endeavors.
 I would consolidate some of the repetitive pieces and streamline it a bit.
 I'm anxious to see what my peer says about my design document though.
 Maybe I completely missed the mark.
