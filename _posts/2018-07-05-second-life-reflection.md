@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Instructional Design - Thoughts So Far
+title: Second Life Reflection
 img: i.imgur.com/0otAHfM.jpg
 author: Raymond Piller
 comments: true
