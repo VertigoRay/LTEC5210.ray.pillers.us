@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Implementing the Loci Method in IT Instructional Design
-img: //i.imgur.com/3xcPuSJ.jpg
+img: //i.imgur.com/6eh7dJe.jpg
 author: Raymond Piller
 comments: true
 categories:
@@ -62,3 +62,7 @@ I imagined having the learner close their eyes and imagine themselves in a serve
 I would describe the server room to them in detail and have them walk up to the terminal.
 "Now imagine yourself logging in to the server," I would say ... okay, this just got much less cool.
 This is going to take a lot of thought...
+
+# References
+
+- (2013, November 8). Schwarzwald (The Black Forest), Germany [Digital image]. Retrieved July 7, 2018, from https://www.topinspired.com/top-10-book-story-magical-places-on-earth/
