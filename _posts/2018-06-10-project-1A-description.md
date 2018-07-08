@@ -1,4 +1,13 @@
-I am a Senior System Administrator at CAS here at UNT.
+---
+layout: post
+title: Project A Description
+img: //i.imgur.com/cfAoUTw.jpg
+author: Raymond Piller
+comments: true
+categories:
+- ID
+---
+I am a Senior System Administrator at [CAS](https://its.cas.unt.edu) here at [UNT](https://unt.edu).
 I've worked here since 2005 when I started out beneath my capabilities as a part-time help desk technician.
 It didn't take me long to attain a full-time position and make my way to where I am today.
 During my time at UNT, I've trained several technicians to be more than just a technician.
@@ -10,7 +19,7 @@ Due to my excellent performance, I was asked to take on another role for my team
 I was asked to be the training coordinator for my team; which would orchestrate the training and development needs of the team so that we were properly cross-trained and could back each other up when one of us takes a vacation or is pushed in front of a bus.
 
 I've accepted this role, and I have decided to kill two birds with one stone.
-I will start working with Christopher Worley to design a program to cross train our other teammates to ensure that we're all covered, in the event of a vacation or tragedy.
+I will start working with Chris W. to design a program to cross train our other teammates to ensure that we're all covered, in the event of a vacation or tragedy.
 Chris and I have known each other for almost the entire time I've been at UNT.
 He started as a part-time tech shortly after I did.
 His problem is very familiar to me, as we share the same problem.
