@@ -6,6 +6,7 @@ author: Raymond Piller
 comments: true
 categories:
 - ID
+- Blog
 ---
 Every day of my life is filled with learning and observation. After all, I am human.
 

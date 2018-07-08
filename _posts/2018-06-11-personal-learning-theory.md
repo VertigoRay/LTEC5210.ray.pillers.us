@@ -6,6 +6,7 @@ author: Raymond Piller
 comments: true
 categories:
 - ID
+- Blog
 ---
 Opinions are like noses, everyone has one, and they often stick them where they are unwanted.
 

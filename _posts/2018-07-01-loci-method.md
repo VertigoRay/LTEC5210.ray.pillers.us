@@ -6,6 +6,7 @@ author: Raymond Piller
 comments: true
 categories:
 - ID
+- Blog
 ---
 
 > Activity 6: Blog Reflection
