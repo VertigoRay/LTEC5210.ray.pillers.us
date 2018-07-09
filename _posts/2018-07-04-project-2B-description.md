@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Project B Description
-img: //i.imgur.com/2yO4ppW.jpg
+img: //i.imgur.com/YTAduEX.jpg
 author: Raymond Piller
 comments: true
 categories:
