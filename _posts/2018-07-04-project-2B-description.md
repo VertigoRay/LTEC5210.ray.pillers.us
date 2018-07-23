@@ -8,7 +8,7 @@ tags:
 - Instructional Design
 - ProjectB
 ---
-Project B will be a continuation of [Project A](/2018/06/11/project-1a-description).
+Project B will be a continuation of [Project A](/2018/06/10/project-1A-description/).
 In Project A, I created a virtual lab that would allow us to train our colleagues without risking production systems.
 I made an asynchronous training process to allow a colleague to train at their own pace.
 They learned how to manage AD users, AD groups, and network file shares.
