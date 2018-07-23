@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Instruction Design
+title: Instructional Design
 author: Raymond Piller
 img: //i.imgur.com/sOxYuDx.jpg
 comments: true
