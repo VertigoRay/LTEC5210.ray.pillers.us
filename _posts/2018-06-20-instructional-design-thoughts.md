@@ -4,9 +4,9 @@ title: Instructional Design - Thoughts So Far
 img: //i.imgur.com/3xcPuSJ.jpg
 author: Raymond Piller
 comments: true
-categories:
-- ID
-- Blog
+tags:
+- Instructional Design
+- Reflection
 ---
 I often write technical documentation and *readme* files for work that I'm doing.
 I often spend as much time, if not more, writing these documents as I spend doing the work.

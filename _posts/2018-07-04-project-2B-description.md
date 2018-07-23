@@ -4,8 +4,8 @@ title: Project B Description
 img: //i.imgur.com/YTAduEX.jpg
 author: Raymond Piller
 comments: true
-categories:
-- ID
+tags:
+- Instructional Design
 - ProjectB
 ---
 Project B will be a continuation of [Project A](/2018/06/11/project-1a-description).

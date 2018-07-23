@@ -4,8 +4,8 @@ title: Windows Server Administration - Design Document
 img: //i.imgur.com/iye3IS2.jpg
 author: Raymond Piller
 comments: true
-categories:
-- ID
+tags:
+- Instructional Design
 - ProjectA
 ---
 # ­­TAPF

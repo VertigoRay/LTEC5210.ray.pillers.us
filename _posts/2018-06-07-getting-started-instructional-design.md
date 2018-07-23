@@ -4,9 +4,9 @@ title: Real World Instructional Design
 img: //i.imgur.com/bKkXlhu.jpg
 author: Raymond Piller
 comments: true
-categories:
-- ID
-- Blog
+tags:
+- Instructional Design
+- Reflection
 ---
 Every day of my life is filled with learning and observation. After all, I am human.
 

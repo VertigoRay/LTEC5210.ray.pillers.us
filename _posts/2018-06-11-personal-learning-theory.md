@@ -4,9 +4,9 @@ title: Personal Learning Theory
 img: //i.imgur.com/5pbFBWh.jpg
 author: Raymond Piller
 comments: true
-categories:
-- ID
-- Blog
+tags:
+- Instructional Design
+- Reflection
 ---
 Opinions are like noses, everyone has one, and they often stick them where they are unwanted.
 

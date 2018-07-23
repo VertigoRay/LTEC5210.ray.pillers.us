@@ -4,9 +4,9 @@ title: Implementing the Loci Method in IT Instructional Design
 img: //i.imgur.com/6eh7dJe.jpg
 author: Raymond Piller
 comments: true
-categories:
-- ID
-- Blog
+tags:
+- Instructional Design
+- Reflection
 ---
 
 > Activity 6: Blog Reflection

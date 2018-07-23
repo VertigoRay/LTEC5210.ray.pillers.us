@@ -4,8 +4,8 @@ title: Project A Reflection
 img: //i.imgur.com/2yO4ppW.jpg
 author: Raymond Piller
 comments: true
-categories:
-- ID
+tags:
+- Instructional Design
 - ProjectA
 ---
 After finishing the bulk of the work for [Project A](/2018/06/10/project-1A-description/), I have realized that I did enjoy it.

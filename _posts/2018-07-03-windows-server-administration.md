@@ -4,8 +4,8 @@ title: Windows Server Administration - Cross-Training Job Aid
 img: //i.imgur.com/JwAcelr.png
 author: Raymond Piller
 comments: true
-categories:
-- ID
+tags:
+- Instructional Design
 - ProjectA
 ---
 <small><i><a href="https://github.com/VertigoRay/LTEC5210.ray.pillers.us/raw/master/download/2018-07-03-windows-server-administration.pdf">Download PDF</a></i></small>
