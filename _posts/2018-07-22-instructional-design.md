@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Management and Self-Regulation
+title: Instruction Design
 author: Raymond Piller
 img: //i.imgur.com/sOxYuDx.jpg
 comments: true
