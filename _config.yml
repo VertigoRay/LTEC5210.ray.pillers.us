@@ -1,9 +1,9 @@
-title: Figure IT out!
+title: LTEC 5210
 description: >
-  The best way to predict the future is to create IT.
+  Instructional Systems Design I
 permalink: /:year/:month/:day/:title/
 baseurl: ""
-url: "https://blog.vertigion.com"
+url: "https://LTEC5210.ray.pillers.us"
 site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
@@ -14,7 +14,8 @@ social-twitter: VertigoRay
 social-facebook: VertigoRay
 social-github: VertigoRay
 social-linkedin: VertigoRay
-social-email: contact_me_KrMl7V+blog@80.vertigion.com
+social-blog: 'http://blog.vertigion.com'
+social-email: Raymond.Piller@my.unt.edu
 
 # Disqus
 discus-identifier: vertigoray
